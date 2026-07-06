@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / real config (keep only the *_template.json)
+config.json
+.env
+*.local
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Local runtime data (not part of the skill)
+data/
+tmp/
+output/
+分析_*/
+*.tmp
