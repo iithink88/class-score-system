@@ -1,0 +1,16 @@
+{
+  "ocr_api_key": "请填写你的DashScope API Key（sk-开头，从 https://dashscope.console.aliyun.com/ 获取）",
+  "ocr_model": "qwen-vl-plus",
+  "ocr_base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "ark_api_key": "请填写你的火山方舟ARK API Key（ark-开头，从 https://console.volcengine.com/ark 获取）",
+  "ark_model_id": "ep-m-20260614035122-4bmhn",
+  "ark_base_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "ima_client_id": "请填写你的IMA client_id（从 IMA OpenAPI 凭证获取）",
+  "ima_api_key": "请填写你的IMA api_key（从 IMA OpenAPI 凭证获取）",
+  "ima_kb_name": "",
+  "subject": "数学",
+  "grade": "一年级",
+  "class_name": "1班",
+  "school_name": "",
+  "port": 8099
+}
